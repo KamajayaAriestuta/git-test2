@@ -12,7 +12,7 @@
         <li>satu</li>
         <li>dua</li>
         <li>tiga</li>
-
     </ul>
+    <hr>
 </body>
 </html>
